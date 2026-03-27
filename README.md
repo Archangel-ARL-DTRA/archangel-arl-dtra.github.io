@@ -70,4 +70,3 @@ We provide several datasets supporting the Archangel framework and related resea
   title={Progressive Transformation Learning for Leveraging Virtual Images in Training}, 
   year={2023}}
 </details>
-
