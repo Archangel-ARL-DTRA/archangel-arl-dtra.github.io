@@ -17,20 +17,15 @@ We provide several datasets supporting the Archangel framework and related resea
 If you find this work useful, please consider citing:
 
 ### AutoComPose Dataset (ICCV 2025)
-<details>
-<summary>BibTeX </summary>
 ```bibtex
 @INPROCEEDINGS{autocompose2025,
   author={Shen, Yi-Ting and Eum, Sungmin and Lee, Dohoen and shete, Rohit and Wang, Chiao-Yi and Kwon, Heesung and Bhattacharyya, Shuvra S.},
   journal={ICCV}, 
   title={AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs}, 
   year={2025}}
-</details>
 
 ### SynPoseDiv Dataset (ICIP 2025)
-<details>
-<summary>BibTeX</summary>
-
+```bibtex
 @INPROCEEDINGS{11084750,
   author={Shen, Yi-Ting and Lee, Hyungtae and Kwon, Heesung and Bhattacharyya, Shuvra S.},
   booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
@@ -41,12 +36,9 @@ If you find this work useful, please consider citing:
   pages={1648-1653},
   keywords={Training;Three-dimensional displays;Accuracy;Image processing;Benchmark testing;Generators;Synthetic data;Synthetic data;novel pose generator;image translator;aerial-view human detection},
   doi={10.1109/ICIP55913.2025.11084750}}
-</details>
 
 ### Archangel Real (IEEE ACCESS 2023)
-<details>
-<summary>BibTeX</summary>
-
+```bibtex
 @ARTICLE{archangel2023,
   author={Shen, Yi-Ting and Lee, Yaesop and Kwon, Heesung and Conover, Damon M. and Bhattacharyya, Shuvra S. and Vale, Nikolas and Gray, Joshua D. and Leong, G. Jeremy and Evensen, Kenneth and Skirlo, Frank},
   journal={IEEE Access}, 
@@ -57,15 +49,12 @@ If you find this work useful, please consider citing:
   pages={80958-80972},
   keywords={Autonomous aerial vehicles;Object detection;Synthetic data;Benchmark testing;Detectors;Cameras;Human activity recognition;Synthetic data;Metadata;UAV-based object detection;human detection;UAV-based benchmark dataset;position metadata;synthetic data;model optimization},
   doi={10.1109/ACCESS.2023.3299235}}
-</details>
 
 ### PTL Dataset (CVPR 2023)
-<details>
-<summary>BibTeX</summary>
-
+```bibtex
 @INPROCEEDINGS{ptl2023,
   author={Shen, Yi-Ting and Lee, Hyungtae and Kwon, Heesung and Bhattacharyya, Shuvra S.},
   journal={CVPR}, 
   title={Progressive Transformation Learning for Leveraging Virtual Images in Training}, 
   year={2023}}
-</details>
+
