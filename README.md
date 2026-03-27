@@ -18,7 +18,7 @@ If you find this work useful, please consider citing:
 
 ### AutoComPose Dataset (ICCV 2025)
 <details>
-<summary>BibTeX</summary>
+<summary>BibTeX </summary>
   
 ```bibtex
 @INPROCEEDINGS{autocompose2025,
@@ -32,7 +32,6 @@ If you find this work useful, please consider citing:
 <details>
 <summary>BibTeX</summary>
 
-```bibtex
 @INPROCEEDINGS{11084750,
   author={Shen, Yi-Ting and Lee, Hyungtae and Kwon, Heesung and Bhattacharyya, Shuvra S.},
   booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
@@ -49,7 +48,6 @@ If you find this work useful, please consider citing:
 <details>
 <summary>BibTeX</summary>
 
-```bibtex
 @ARTICLE{archangel2023,
   author={Shen, Yi-Ting and Lee, Yaesop and Kwon, Heesung and Conover, Damon M. and Bhattacharyya, Shuvra S. and Vale, Nikolas and Gray, Joshua D. and Leong, G. Jeremy and Evensen, Kenneth and Skirlo, Frank},
   journal={IEEE Access}, 
@@ -66,7 +64,6 @@ If you find this work useful, please consider citing:
 <details>
 <summary>BibTeX</summary>
 
-```bibtex
 @INPROCEEDINGS{ptl2023,
   author={Shen, Yi-Ting and Lee, Hyungtae and Kwon, Heesung and Bhattacharyya, Shuvra S.},
   journal={CVPR}, 
