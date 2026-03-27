@@ -14,9 +14,12 @@ We provide several datasets supporting the Archangel framework and related resea
 
 ## 📄 Citations
 
+If you find this work useful, please consider citing:
+
 ### AutoComPose Dataset (ICCV 2025)
 <details>
 <summary>BibTeX</summary>
+  
 ```bibtex
 @INPROCEEDINGS{autocompose2025,
   author={Shen, Yi-Ting and Eum, Sungmin and Lee, Dohoen and shete, Rohit and Wang, Chiao-Yi and Kwon, Heesung and Bhattacharyya, Shuvra S.},
