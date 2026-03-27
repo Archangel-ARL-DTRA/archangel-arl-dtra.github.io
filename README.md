@@ -1,4 +1,4 @@
-# 📡 Project Archangel
+# 📡 Project Archangel 🚑
 - Multimodal Casualty Detection and Distress-aware Triage Using UAVs
 - Conducted by DEVCOM Army Research Laboratory (ARL), supported by Defense Threat Reduction Agency (DTRA)
 
@@ -7,12 +7,12 @@
 
 ## 📊 Datasets
 
-We provide several datasets supporting the Archangel framework and related research efforts.
+We provide several datasets supporting the Archangel and related research efforts.
 
 | Dataset | Size | Download | Paper | Project Page |
 |--------|------|----------|-------| ----------|
 | **SynPlay Dataset** | - | Available in project page | [Paper](https://arxiv.org/abs/2408.11814) | [Link](https://synplaydataset.github.io/) | 
-| **AutoComPose Dataset** | 2.61 GB | [Download (Google Drive)](https://drive.google.com/file/d/17JSqRM2POCVWo-I0gIrFZgaYMvrsSCXP/view?usp=sharing) | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_AutoComPose_Automatic_Generation_of_Pose_Transition_Descriptions_for_Composed_Pose_ICCV_2025_paper.pdf) | [Link]() |
+| **AutoComPose Dataset** | 2.61 GB | [Download (Google Drive)](https://drive.google.com/file/d/17JSqRM2POCVWo-I0gIrFZgaYMvrsSCXP/view?usp=sharing) | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Shen_AutoComPose_Automatic_Generation_of_Pose_Transition_Descriptions_for_Composed_Pose_ICCV_2025_paper.pdf) | - |
 | **SynPoseDiv Dataset** | 4.85 GB | [Download (Google Drive)](https://drive.google.com/file/d/1BOxrXggkEJkiOtkP-IatvpkZJ3QwnzSq/view?usp=sharing) | [Paper](https://ieeexplore.ieee.org/document/11084750) | - |
 | **PTL Dataset** | 1.52 GB | [Download (Google Drive)](https://drive.google.com/file/d/1LpEIjqDnOHFcQTJ5OoBlBluBXT0trYhp/view?usp=sharing) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Progressive_Transformation_Learning_for_Leveraging_Virtual_Images_in_Training_CVPR_2023_paper.pdf) | - |
 | **Archangel Real** | 8.29 GB | [Download (Google Drive)](https://drive.google.com/file/d/1TD0sPM3C67aC-6LG6vGjR_DiFTsPOgEF/view?usp=sharing) | [Paper](https://ieeexplore.ieee.org/document/10196325) | - |
