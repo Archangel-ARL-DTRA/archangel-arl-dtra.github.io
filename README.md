@@ -1,3 +1,10 @@
+# :satellite: Project Archangel
+- Multimodal Casualty Detection and Distress-aware Triage Using UAVs
+- Conducted by DEVCOM Army Research Laboratory (ARL), supported by Defense Threat Reduction Agency (DTRA)
+
+---
+
+
 ## 📊 Datasets
 
 We provide several datasets supporting the Archangel framework and related research efforts.
@@ -70,4 +77,4 @@ If you find this work useful, please consider citing:
   journal={CVPR}, 
   title={Progressive Transformation Learning for Leveraging Virtual Images in Training}, 
   year={2023}}
-
+```
