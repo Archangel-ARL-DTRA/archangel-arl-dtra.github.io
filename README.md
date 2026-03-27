@@ -1,4 +1,4 @@
-# :satellite: Project Archangel
+# 📡 Project Archangel
 - Multimodal Casualty Detection and Distress-aware Triage Using UAVs
 - Conducted by DEVCOM Army Research Laboratory (ARL), supported by Defense Threat Reduction Agency (DTRA)
 
